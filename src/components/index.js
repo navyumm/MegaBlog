@@ -10,6 +10,7 @@ import PostCard from "./PostCard";
 import Login from "./Login";
 import Protected from "./AuthLayout";
 import Signup from "./Signup";
+import RTE from "./RTE";
 
 
 export {
@@ -24,5 +25,6 @@ export {
     PostCard,
     Login,
     Protected,
-    Signup
+    Signup,
+    RTE
 }
